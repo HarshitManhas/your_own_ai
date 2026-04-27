@@ -1,0 +1,11 @@
+/home/harshit-manhas/Projects/your_own_ai/src/main/java/com/vectordb/BruteForce.java
+/home/harshit-manhas/Projects/your_own_ai/src/main/java/com/vectordb/DemoData.java
+/home/harshit-manhas/Projects/your_own_ai/src/main/java/com/vectordb/DistanceMetrics.java
+/home/harshit-manhas/Projects/your_own_ai/src/main/java/com/vectordb/DocumentDB.java
+/home/harshit-manhas/Projects/your_own_ai/src/main/java/com/vectordb/HNSW.java
+/home/harshit-manhas/Projects/your_own_ai/src/main/java/com/vectordb/KDTree.java
+/home/harshit-manhas/Projects/your_own_ai/src/main/java/com/vectordb/Main.java
+/home/harshit-manhas/Projects/your_own_ai/src/main/java/com/vectordb/OllamaClient.java
+/home/harshit-manhas/Projects/your_own_ai/src/main/java/com/vectordb/TextChunker.java
+/home/harshit-manhas/Projects/your_own_ai/src/main/java/com/vectordb/VectorDB.java
+/home/harshit-manhas/Projects/your_own_ai/src/main/java/com/vectordb/VectorItem.java
